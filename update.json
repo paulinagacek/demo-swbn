@@ -2,7 +2,7 @@
   "versions": [
     {
       "version": "1.0.0",
-      "src": "https://your-hosting.com/path/to/my-iwa-1.0.0.swbn"
+      "src": "https://github.com/paulinagacek/demo-swbn/raw/refs/heads/main/iwa-setshape-demo.swbn"
     }
   ]
 }
